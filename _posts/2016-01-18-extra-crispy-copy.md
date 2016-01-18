@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: Packaging copy for 479 degrees brand of craft-cooked gourmet popcorn. Content may have settled during shipping.
-datePublished: '2016-01-18T22:18:57.438Z'
+datePublished: '2016-01-18T22:18:57.424Z'
 dateModified: '2016-01-18T22:18:50.309Z'
 title: Extra crispy copy
 author: []
